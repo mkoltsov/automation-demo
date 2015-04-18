@@ -1,2 +1,2 @@
 # automation-demo
-automation demo
+test automation demo
